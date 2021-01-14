@@ -18,11 +18,12 @@
   },
   "homepage": "https://github.com/renatoamreis1987/forkify#readme",
   "devDependencies": {
-    "parcel": "^2.0.0-nightly.514",
     "sass": "^1.32.2"
   },
   "dependencies": {
     "core-js": "^3.8.2",
+    "fractional": "^1.0.0",
+    "parcel": "^2.0.0-beta.1",
     "regenerator-runtime": "^0.13.7"
   }
 }
