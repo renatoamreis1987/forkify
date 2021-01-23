@@ -8,7 +8,7 @@ class BookmarksView extends View {
   _message = '';
 
   addHandlerRender(handler) {
-    window.addEventListener('load', handler)
+    window.addEventListener('load', handler);
   }
 
   // resultsView.js and bookmarksView.js, both share the previewView.js to avoid duplicated code on return HTML code
