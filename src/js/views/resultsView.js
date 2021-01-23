@@ -9,7 +9,7 @@ class ResultsView extends View {
 
   // resultsView.js and bookmarksView.js, both share the previewView.js to avoid duplicated code on return HTML code
   _generateMarkup() {
-    console.log(this._data);
+    //console.log(this._data);
     return this._data.map(result => previewView.render(result, false)).join('');
   }
 }
