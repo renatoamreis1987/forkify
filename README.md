@@ -4,6 +4,6 @@
 
 https://forkify-api.herokuapp.com/v2
 
-### WEB
+## WEBSITE
 
 https://forkify-renato.netlify.app/
